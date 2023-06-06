@@ -1,0 +1,15 @@
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\bin\Debug\net6.0\conexaobanco.exe
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\bin\Debug\net6.0\conexaobanco.deps.json
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\bin\Debug\net6.0\conexaobanco.runtimeconfig.json
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\bin\Debug\net6.0\conexaobanco.dll
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\bin\Debug\net6.0\conexaobanco.pdb
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.csproj.AssemblyReference.cache
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.AssemblyInfoInputs.cache
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.AssemblyInfo.cs
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.csproj.CoreCompileInputs.cache
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.dll
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\refint\conexaobanco.dll
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.pdb
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\conexaobanco.genruntimeconfig.cache
+C:\Users\2022102020055\Documents\poo\2 bimestre\conexaobanco\conexaobanco\obj\Debug\net6.0\ref\conexaobanco.dll
